@@ -1,2 +1,2 @@
 # Billing-System
-Billing Management System
+Billing Management System using Python Tkinter.
